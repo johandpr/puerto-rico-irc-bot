@@ -1,0 +1,22 @@
+{
+  "name": "puerto-rico-irc-bot",
+  "version": "1.0.0",
+  "description": "IRC bot for #PuertoRico channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johandpr/puerto-rico-irc-bot.git"
+  },
+  "author": "",
+  "license": "Apache2.0",
+  "dependencies": {
+    "irc": "^0.5.2"
+  },
+  "bugs": {
+    "url": "https://github.com/johandpr/puerto-rico-irc-bot/issues"
+  },
+  "homepage": "https://github.com/johandpr/puerto-rico-irc-bot#readme"
+}
